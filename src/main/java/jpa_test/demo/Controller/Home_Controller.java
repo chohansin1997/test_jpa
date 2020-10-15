@@ -60,7 +60,7 @@ public class Home_Controller {
         System.out.println(member_repository.findByNameAndAgeGreaterThan("hansin",11));
         // 메소드 이름으로 자동으로 만들어준것
 
-
+//마스터랑 겹치는 브랜치 ~
 
         //git test용 주석
 
