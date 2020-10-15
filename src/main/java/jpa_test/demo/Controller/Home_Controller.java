@@ -65,8 +65,8 @@ public class Home_Controller {
         //git test용 주석
 
 
-
-
+// 여긴 어디고 ~
+//45422
         return "index";
     }
 }
